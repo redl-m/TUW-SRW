@@ -1,0 +1,272 @@
+[
+  {
+    "sequence_id": "seq_short_low_0",
+    "person_name": "P0",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, happy, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.91, 0.90, 0.92, 0.94, 0.95, 0.94, 0.96, 0.95, 0.93, 0.92, 0.91, 0.90] with an average engagement score of 0.93 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_low_1",
+    "person_name": "P1",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, neutral, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.88, 0.89, 0.89, 0.91, 0.90, 0.92, 0.93, 0.92, 0.90, 0.89, 0.91, 0.90] with an average engagement score of 0.90 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_low_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, neutral, sad, sad, sad, neutral, sad, sad, sad",
+    "engagement_info": "The engagement sequence is: [0.85, 0.86, 0.84, 0.85, 0.83, 0.84, 0.82, 0.83, 0.85, 0.86, 0.87, 0.85, 0.84] with an average engagement score of 0.85 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_low_3",
+    "person_name": "P3",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.95, 0.96, 0.97, 0.95, 0.96, 0.94, 0.95, 0.96, 0.97, 0.96] with an average engagement score of 0.96 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_low_4",
+    "person_name": "P4",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.90, 0.88, 0.91, 0.92, 0.93, 0.91, 0.90, 0.92, 0.93, 0.91, 0.92] with an average engagement score of 0.91 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_medium_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, happy, happy, happy, happy, surprise, sad, sad, sad, sad, sad, sad",
+    "engagement_info": "The engagement sequence is: [0.90, 0.91, 0.92, 0.90, 0.91, 0.98, 0.75, 0.73, 0.74, 0.76, 0.75, 0.77] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_medium_1",
+    "person_name": "P1",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, fear, fear, fear, angry, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.88, 0.87, 0.89, 0.88, 0.86, 0.95, 0.94, 0.93, 0.80, 0.78, 0.79] with an average engagement score of 0.87 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_medium_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, surprise, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.82, 0.81, 0.83, 0.82, 0.80, 0.96, 0.90, 0.91, 0.92, 0.90, 0.89] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_medium_3",
+    "person_name": "P3",
+    "timeline_emotions": "neutral, neutral, neutral, happy, happy, neutral, disgust, disgust, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.85, 0.86, 0.87, 0.90, 0.91, 0.88, 0.70, 0.72, 0.80, 0.82, 0.84] with an average engagement score of 0.83 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_medium_4",
+    "person_name": "P4",
+    "timeline_emotions": "happy, happy, happy, neutral, neutral, neutral, neutral, angry, angry, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.92, 0.93, 0.91, 0.85, 0.84, 0.83, 0.85, 0.75, 0.76, 0.77, 0.74] with an average engagement score of 0.83 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_high_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, angry, sad, surprise, neutral, fear, disgust, happy, sad, angry",
+    "engagement_info": "The engagement sequence is: [0.90, 0.75, 0.80, 0.98, 0.85, 0.95, 0.70, 0.88, 0.79, 0.75] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_high_1",
+    "person_name": "P1",
+    "timeline_emotions": "fear, fear, surprise, happy, happy, neutral, sad, angry, surprise, fear, fear",
+    "engagement_info": "The engagement sequence is: [0.95, 0.96, 0.98, 0.90, 0.88, 0.85, 0.78, 0.75, 0.97, 0.94, 0.92] with an average engagement score of 0.89 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_high_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, angry, angry, happy, neutral, happy, sad, happy, surprise",
+    "engagement_info": "The engagement sequence is: [0.80, 0.78, 0.75, 0.76, 0.88, 0.85, 0.90, 0.81, 0.89, 0.97] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_high_3",
+    "person_name": "P3",
+    "timeline_emotions": "angry, disgust, fear, happy, neutral, sad, surprise, angry, neutral, happy, fear, sad",
+    "engagement_info": "The engagement sequence is: [0.78, 0.72, 0.90, 0.88, 0.85, 0.80, 0.97, 0.77, 0.84, 0.89, 0.91, 0.79] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_short_high_4",
+    "person_name": "P4",
+    "timeline_emotions": "happy, sad, happy, sad, happy, neutral, angry, neutral, angry, neutral, surprise",
+    "engagement_info": "The engagement sequence is: [0.90, 0.80, 0.89, 0.79, 0.88, 0.85, 0.75, 0.84, 0.76, 0.83, 0.95] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_low_0",
+    "person_name": "P0",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, happy, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, happy, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.92, 0.93, 0.91, 0.92, 0.94, 0.93, 0.95, 0.94, 0.93, 0.92, 0.91, 0.90, 0.92, 0.93, 0.94, 0.92, 0.93, 0.91, 0.90, 0.92, 0.94, 0.93, 0.92, 0.91, 0.90, 0.92, 0.93, 0.91, 0.92, 0.90, 0.91, 0.93, 0.92, 0.94, 0.93] with an average engagement score of 0.92 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_low_1",
+    "person_name": "P1",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, neutral, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.88, 0.89, 0.90, 0.91, 0.90, 0.89, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.85, 0.88, 0.89, 0.90, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92, 0.93, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91] with an average engagement score of 0.90 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_low_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, sad, sad, sad, sad, sad",
+    "engagement_info": "The engagement sequence is: [0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.83, 0.82, 0.81, 0.84, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.83, 0.82, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.84, 0.82, 0.81, 0.80, 0.79, 0.81] with an average engagement score of 0.81 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_low_3",
+    "person_name": "P3",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.94, 0.95, 0.93, 0.94, 0.96, 0.95, 0.94, 0.93, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.92, 0.94, 0.95, 0.96, 0.94] with an average engagement score of 0.94 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_low_4",
+    "person_name": "P4",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.91, 0.90, 0.92, 0.93, 0.91, 0.90, 0.92, 0.93, 0.91, 0.92, 0.90, 0.89, 0.91, 0.92, 0.93, 0.91, 0.90, 0.92, 0.91, 0.90, 0.92, 0.93, 0.91, 0.90, 0.92, 0.93, 0.91, 0.92, 0.90, 0.91] with an average engagement score of 0.91 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_medium_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, surprise, fear, fear, fear, fear, sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.90, 0.91, 0.92, 0.90, 0.89, 0.91, 0.92, 0.90, 0.91, 0.89, 0.90, 0.91, 0.98, 0.96, 0.95, 0.94, 0.93, 0.80, 0.78, 0.79, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.84, 0.85, 0.86] with an average engagement score of 0.88 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_medium_1",
+    "person_name": "P1",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, disgust, disgust, disgust, disgust, disgust, disgust, angry, angry, angry, angry, angry, angry, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.85, 0.86, 0.84, 0.85, 0.83, 0.84, 0.85, 0.86, 0.85, 0.84, 0.83, 0.85, 0.86, 0.84, 0.85, 0.70, 0.68, 0.69, 0.71, 0.70, 0.72, 0.75, 0.76, 0.74, 0.75, 0.73, 0.76, 0.80, 0.82, 0.83] with an average engagement score of 0.80 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_medium_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, surprise, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.81, 0.85, 0.97, 0.92, 0.91, 0.90, 0.89, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.88, 0.87] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_medium_3",
+    "person_name": "P3",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, neutral, neutral, neutral, neutral, neutral, neutral, surprise, fear, fear, fear, fear, fear, fear, fear, fear, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.92, 0.93, 0.91, 0.90, 0.92, 0.91, 0.93, 0.90, 0.85, 0.84, 0.86, 0.85, 0.84, 0.86, 0.98, 0.96, 0.97, 0.95, 0.96, 0.94, 0.95, 0.96, 0.97, 0.88, 0.87, 0.86, 0.85] with an average engagement score of 0.90 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_medium_4",
+    "person_name": "P4",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.90, 0.89, 0.91, 0.88, 0.87, 0.89, 0.90, 0.88, 0.75, 0.74, 0.76, 0.75, 0.73, 0.74, 0.72, 0.75, 0.76, 0.74, 0.85, 0.86, 0.87, 0.85, 0.86, 0.84, 0.85, 0.86, 0.87, 0.88, 0.87] with an average engagement score of 0.83 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_high_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, happy, happy, angry, angry, sad, sad, sad, surprise, neutral, neutral, fear, fear, fear, fear, happy, happy, happy, happy, sad, sad, angry, angry, neutral, neutral, neutral, neutral, surprise, surprise, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.90, 0.89, 0.88, 0.75, 0.74, 0.80, 0.79, 0.81, 0.97, 0.88, 0.87, 0.95, 0.96, 0.94, 0.95, 0.90, 0.89, 0.91, 0.90, 0.82, 0.81, 0.78, 0.77, 0.85, 0.84, 0.86, 0.85, 0.98, 0.97, 0.92, 0.91] with an average engagement score of 0.87 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_high_1",
+    "person_name": "P1",
+    "timeline_emotions": "sad, sad, neutral, neutral, disgust, disgust, angry, angry, angry, fear, fear, surprise, happy, happy, neutral, neutral, sad, sad, sad, fear, fear, happy, happy, happy, surprise, surprise, surprise, angry, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.82, 0.81, 0.85, 0.86, 0.70, 0.71, 0.75, 0.76, 0.74, 0.92, 0.93, 0.98, 0.90, 0.89, 0.86, 0.85, 0.80, 0.79, 0.81, 0.94, 0.93, 0.91, 0.90, 0.89, 0.97, 0.98, 0.96, 0.78, 0.77, 0.76] with an average engagement score of 0.85 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_high_2",
+    "person_name": "P2",
+    "timeline_emotions": "neutral, fear, fear, fear, happy, happy, surprise, surprise, sad, sad, sad, angry, angry, disgust, disgust, neutral, neutral, neutral, happy, happy, happy, fear, fear, sad, sad, sad, surprise, surprise, surprise, neutral",
+    "engagement_info": "The engagement sequence is: [0.88, 0.95, 0.96, 0.94, 0.90, 0.89, 0.98, 0.97, 0.80, 0.79, 0.81, 0.75, 0.76, 0.70, 0.71, 0.85, 0.86, 0.84, 0.91, 0.90, 0.92, 0.96, 0.95, 0.82, 0.81, 0.83, 0.97, 0.98, 0.96, 0.89] with an average engagement score of 0.87 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_high_3",
+    "person_name": "P3",
+    "timeline_emotions": "happy, sad, happy, sad, happy, neutral, neutral, angry, fear, angry, fear, surprise, neutral, happy, happy, sad, sad, disgust, neutral, angry, angry, happy, happy, neutral, neutral, fear, fear, fear, sad, sad, happy",
+    "engagement_info": "The engagement sequence is: [0.90, 0.80, 0.89, 0.79, 0.88, 0.85, 0.84, 0.75, 0.94, 0.76, 0.93, 0.98, 0.86, 0.91, 0.90, 0.81, 0.80, 0.72, 0.83, 0.77, 0.78, 0.89, 0.90, 0.85, 0.84, 0.95, 0.96, 0.94, 0.82, 0.81, 0.90] with an average engagement score of 0.85 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_medium_high_4",
+    "person_name": "P4",
+    "timeline_emotions": "surprise, surprise, neutral, neutral, angry, angry, angry, angry, happy, happy, happy, fear, fear, sad, sad, sad, sad, neutral, neutral, happy, happy, happy, disgust, disgust, neutral, neutral, sad, sad, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.98, 0.97, 0.88, 0.87, 0.75, 0.76, 0.74, 0.75, 0.90, 0.89, 0.91, 0.95, 0.94, 0.80, 0.79, 0.81, 0.80, 0.85, 0.86, 0.91, 0.90, 0.89, 0.70, 0.71, 0.84, 0.85, 0.82, 0.81, 0.78, 0.77] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_low_0",
+    "person_name": "P0",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.92, 0.94, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94, 0.93, 0.92, 0.94, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.93, 0.95, 0.94, 0.96, 0.95, 0.94] with an average engagement score of 0.94 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_low_1",
+    "person_name": "P1",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, neutral, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.90, 0.91, 0.89, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.85, 0.88, 0.89, 0.90, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91] with an average engagement score of 0.90 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_low_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad",
+    "engagement_info": "The engagement sequence is: [0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.84, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.82, 0.80, 0.81, 0.79, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81] with an average engagement score of 0.81 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_low_3",
+    "person_name": "P3",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97, 0.96, 0.95, 0.94, 0.96, 0.95, 0.97] with an average engagement score of 0.95 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_low_4",
+    "person_name": "P4",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.91, 0.92, 0.90, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91] with an average engagement score of 0.91 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_medium_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, surprise, surprise, fear, fear, fear, fear, fear, fear, fear, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.92, 0.93, 0.91, 0.90, 0.92, 0.91, 0.93, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.98, 0.97, 0.96, 0.95, 0.94, 0.95, 0.96, 0.94, 0.95, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.85, 0.86, 0.84, 0.85, 0.86, 0.85] with an average engagement score of 0.88 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_medium_1",
+    "person_name": "P1",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.75, 0.74, 0.76, 0.75, 0.73, 0.74, 0.72, 0.75, 0.76, 0.74, 0.75, 0.73, 0.74, 0.72, 0.75, 0.76, 0.74, 0.75, 0.73, 0.74, 0.72, 0.75, 0.85, 0.86, 0.84, 0.85, 0.86, 0.85, 0.84, 0.83, 0.85, 0.86, 0.84] with an average engagement score of 0.82 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_medium_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, sad, surprise, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy",
+    "engagement_info": "The engagement sequence is: [0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.80, 0.79, 0.81, 0.80, 0.82, 0.81, 0.98, 0.92, 0.91, 0.90, 0.89, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92, 0.91, 0.90, 0.89, 0.91, 0.92, 0.90, 0.89, 0.91, 0.90, 0.92] with an average engagement score of 0.87 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_medium_3",
+    "person_name": "P3",
+    "timeline_emotions": "happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, happy, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, disgust, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.91, 0.92, 0.90, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.91, 0.90, 0.92, 0.91, 0.93, 0.92, 0.85, 0.84, 0.86, 0.85, 0.84, 0.86, 0.85, 0.84, 0.86, 0.85, 0.84, 0.86, 0.85, 0.84, 0.86, 0.70, 0.71, 0.69, 0.70, 0.72, 0.71, 0.70, 0.69, 0.71, 0.70, 0.72, 0.71, 0.70, 0.69, 0.85, 0.86, 0.84, 0.85, 0.86, 0.85, 0.84] with an average engagement score of 0.84 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_medium_4",
+    "person_name": "P4",
+    "timeline_emotions": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, fear, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.90, 0.89, 0.91, 0.88, 0.87, 0.89, 0.90, 0.88, 0.89, 0.91, 0.88, 0.87, 0.89, 0.90, 0.88, 0.89, 0.91, 0.88, 0.87, 0.89, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.92, 0.95, 0.96, 0.94, 0.95, 0.93, 0.94, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88, 0.89, 0.87, 0.88, 0.86, 0.87, 0.88] with an average engagement score of 0.90 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_high_0",
+    "person_name": "P0",
+    "timeline_emotions": "happy, happy, happy, happy, sad, sad, sad, sad, angry, angry, angry, angry, surprise, surprise, surprise, neutral, neutral, neutral, fear, fear, fear, fear, fear, happy, happy, happy, happy, sad, sad, sad, sad, angry, angry, angry, surprise, neutral, fear, happy, sad, neutral, angry, disgust, happy, fear, sad, surprise, neutral, happy, happy, happy, sad, sad, sad, angry, angry, neutral, neutral",
+    "engagement_info": "The engagement sequence is: [0.90, 0.91, 0.89, 0.90, 0.80, 0.79, 0.81, 0.80, 0.75, 0.74, 0.76, 0.75, 0.98, 0.97, 0.96, 0.88, 0.87, 0.89, 0.95, 0.94, 0.96, 0.95, 0.94, 0.91, 0.90, 0.92, 0.91, 0.81, 0.80, 0.82, 0.81, 0.76, 0.75, 0.77, 0.97, 0.89, 0.96, 0.92, 0.83, 0.88, 0.78, 0.70, 0.90, 0.94, 0.82, 0.97, 0.89, 0.91, 0.90, 0.92, 0.81, 0.80, 0.82, 0.77, 0.76, 0.86, 0.85] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_high_1",
+    "person_name": "P1",
+    "timeline_emotions": "neutral, neutral, fear, fear, fear, surprise, happy, happy, happy, neutral, neutral, sad, sad, sad, sad, angry, angry, angry, angry, disgust, disgust, disgust, fear, fear, fear, surprise, surprise, neutral, neutral, neutral, happy, happy, sad, sad, angry, angry, neutral, neutral, happy, happy, happy, happy, fear, fear, fear, sad, sad, sad, neutral, neutral, neutral, surprise, surprise, happy, happy, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.88, 0.87, 0.95, 0.96, 0.94, 0.98, 0.90, 0.89, 0.91, 0.86, 0.85, 0.80, 0.79, 0.81, 0.80, 0.75, 0.74, 0.76, 0.75, 0.70, 0.71, 0.69, 0.94, 0.93, 0.95, 0.97, 0.98, 0.87, 0.86, 0.88, 0.91, 0.90, 0.82, 0.81, 0.78, 0.77, 0.85, 0.86, 0.90, 0.89, 0.91, 0.90, 0.96, 0.95, 0.94, 0.83, 0.82, 0.84, 0.87, 0.86, 0.88, 0.97, 0.98, 0.92, 0.91, 0.79, 0.78] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_high_2",
+    "person_name": "P2",
+    "timeline_emotions": "sad, sad, sad, surprise, surprise, happy, happy, happy, neutral, neutral, neutral, angry, angry, angry, fear, fear, fear, sad, sad, sad, happy, happy, happy, neutral, neutral, disgust, disgust, disgust, surprise, happy, fear, neutral, sad, angry, happy, neutral, fear, sad, angry, happy, neutral, fear, sad, angry, happy, neutral, fear, sad, angry, happy, neutral, fear, sad, angry, happy",
+    "engagement_info": "The engagement sequence is: [0.80, 0.79, 0.81, 0.97, 0.98, 0.90, 0.89, 0.91, 0.85, 0.84, 0.86, 0.75, 0.76, 0.74, 0.95, 0.94, 0.96, 0.81, 0.80, 0.82, 0.91, 0.90, 0.92, 0.86, 0.85, 0.70, 0.71, 0.69, 0.98, 0.92, 0.96, 0.87, 0.83, 0.78, 0.91, 0.88, 0.95, 0.84, 0.79, 0.90, 0.89, 0.94, 0.85, 0.80, 0.91, 0.90, 0.93, 0.86, 0.81, 0.90, 0.89, 0.92, 0.87, 0.82, 0.91] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_high_3",
+    "person_name": "P3",
+    "timeline_emotions": "happy, sad, happy, sad, neutral, angry, fear, neutral, surprise, happy, sad, angry, disgust, neutral, happy, fear, sad, surprise, happy, sad, happy, sad, neutral, angry, fear, neutral, surprise, happy, sad, angry, disgust, neutral, happy, fear, sad, surprise, happy, sad, happy, sad, neutral, angry, fear, neutral, surprise, happy, sad, angry, disgust, neutral, happy, fear, sad, surprise",
+    "engagement_info": "The engagement sequence is: [0.90, 0.80, 0.89, 0.79, 0.85, 0.75, 0.94, 0.86, 0.98, 0.91, 0.81, 0.76, 0.70, 0.84, 0.90, 0.95, 0.82, 0.97, 0.91, 0.80, 0.89, 0.79, 0.85, 0.75, 0.94, 0.86, 0.98, 0.91, 0.81, 0.76, 0.70, 0.84, 0.90, 0.95, 0.82, 0.97, 0.91, 0.80, 0.89, 0.79, 0.85, 0.75, 0.94, 0.86, 0.98, 0.91, 0.81, 0.76, 0.70, 0.84, 0.90, 0.95, 0.82, 0.97] with an average engagement score of 0.86 on a scale from 0 to 1."
+  },
+  {
+    "sequence_id": "seq_long_high_4",
+    "person_name": "P4",
+    "timeline_emotions": "surprise, surprise, surprise, neutral, neutral, angry, angry, angry, happy, happy, happy, fear, fear, fear, sad, sad, sad, neutral, neutral, happy, happy, happy, disgust, disgust, neutral, neutral, sad, sad, angry, angry, surprise, surprise, neutral, neutral, angry, angry, angry, happy, happy, happy, fear, fear, fear, sad, sad, sad, neutral, neutral, happy, happy, happy, disgust, disgust, neutral, neutral, sad, sad, angry, angry",
+    "engagement_info": "The engagement sequence is: [0.98, 0.97, 0.96, 0.88, 0.87, 0.75, 0.76, 0.74, 0.90, 0.89, 0.91, 0.95, 0.94, 0.96, 0.80, 0.79, 0.81, 0.86, 0.85, 0.91, 0.90, 0.89, 0.70, 0.71, 0.84, 0.85, 0.82, 0.81, 0.78, 0.77, 0.98, 0.97, 0.88, 0.87, 0.75, 0.76, 0.74, 0.90, 0.89, 0.91, 0.95, 0.94, 0.96, 0.80, 0.79, 0.81, 0.86, 0.85, 0.91, 0.90, 0.89, 0.70, 0.71, 0.84, 0.85, 0.82, 0.81, 0.78, 0.77] with an average engagement score of 0.85 on a scale from 0 to 1."
+  }
+]
